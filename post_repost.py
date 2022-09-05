@@ -10,7 +10,7 @@ import schedule
 
 my_chat="873556674"
 uzbek_news='-1001605744248 '
-bot_token="1441076667:AAE7l6g19AQDcASzRUaEzSkYBNAhJqTx-Uw"
+bot_token="*********"
 bot = telegram.Bot(token=bot_token) #bot token
 JMD_chat='-1001110252788'
 old_links = ['']
