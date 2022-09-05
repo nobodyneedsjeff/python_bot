@@ -5,7 +5,7 @@ import os
 
 
 
-bot_token="5503412936:AAFfeCUy59C4yrfXGurUuGTNRmIcMLd06rQ"
+bot_token="*******"
 
 my_chat="873556674"
 bot = telegram.Bot(token=bot_token)
