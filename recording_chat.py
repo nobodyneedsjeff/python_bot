@@ -7,7 +7,7 @@ a=['time','\n','date','\n']
 c='date'
 d='text'
 
-directory = r'C:\Users\NAkanov\PycharmProjects\tele_bot_new_att\chats'
+directory = r'\tele_bot_new_att\chats'
 def typing():
     while True: #ask for user input
         answer = input("print to create name for a file: ") #print request
