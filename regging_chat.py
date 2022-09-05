@@ -26,7 +26,7 @@ def logging_chat(update):
         log_name= chat_id+"_"+name_of_chat
     else:
         log_name=str(user_id)+"_"+str(nickname)
-        with open("C:\\Users\\NAkanov\\PycharmProjects\\tele_bot_new_att\chats\\"+str(log_name)+".txt",'a') as f: #open file that has name of a user
+        with open("\\tele_bot_new_att\chats\\"+str(log_name)+".txt",'a') as f: #open file that has name of a user
             for item in note:
                 f.write(str(item))
             f.write('\n')
