@@ -1,3 +1,3 @@
 # python_bot
-Learning python by creating a telegram bot
-check out master branch for files
+Learning python by creating a telegram bot<br>
+<h2> check out master branch for files
