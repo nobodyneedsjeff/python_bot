@@ -34,11 +34,11 @@ def test(user_input,update ):
     if any(a in input_text.lower() for a in image_lookup):
         print("nay")
 
-    if input_text in ["/start",'мирка','hello']:
-        return "Мирка, хуй соси губой тряси"
+    if input_text in ["/start",' ','hello']:
+        return " "
     if input_text in ['два плюс два?', '2 плюс 2', '2 + 2']:
-        return "хуй знает"
-    if input_text in["/mirka_dolbaeb"]:
+        return "4"
+    if input_text in["/"]:
         return "да"
     if input_text in ['киса']:
         return bot.send_photo(chat_id,photo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.tarvinvets.co.uk%2Fwp-content%2Fuploads%2Fsites%2F13%2F2018%2F04%2FKitten-pack.jpg&f=1&nofb=1")
