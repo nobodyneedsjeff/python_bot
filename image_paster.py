@@ -12,7 +12,7 @@ import collections
 
 
 
-bot_token="1441076667:AAE7l6g19AQDcASzRUaEzSkYBNAhJqTx-Uw"
+bot_token="****************"
 
 bot = telegram.Bot(token=bot_token)
 def test(user_input,update ):
