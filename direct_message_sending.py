@@ -8,7 +8,7 @@ my_chat="873556674"
 JMD_chat='-1001110252788'
 shikandpshik='865546057'
 uzbek_news='-1001605744248 '
-bot_token="1441076667:AAE7l6g19AQDcASzRUaEzSkYBNAhJqTx-Uw"
+bot_token="****"
 borya_chat="250716"
 
 chat_list=[my_chat,JMD_chat] # list of chats to send message to, can be anything
